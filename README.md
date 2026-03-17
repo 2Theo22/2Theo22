@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 
+I am a German CS student and am currently learning Java, Pyhton and front-end development via HTML,CSS and JavaScript. <br><br>
+Currently I am working on creating a purely HTML/CSS/JS project and some mini Java projects to learn and understand the language. <br><br>
+My favourite IDE is Pycharm.<br><br>
+When I get an idea or inspiration, I'll most likely will try to create it. Even if it takes a lot of trial and error. <br><br>
 
 <!--
 **2Theo22/2Theo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
