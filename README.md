@@ -1,7 +1,7 @@
 ## Hi there 👋 
 I'm Theo, a compsci student based in Germany. <br>
 I like to code and turn my ideas into reality. Especially with Pyhton, Java, HTML, CSS & JS. Here I prever IDEs by JetBrains<br>
-I am currently learning Java. <br>
+I am currently learning JavaScript. <br>
 
 
 
