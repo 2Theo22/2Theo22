@@ -1,7 +1,6 @@
 ## Hi there 👋 
-I'm Theo, a compsci student based in Germany. <br>
-I like to code and turn my ideas into reality. Especially with Pyhton, Java, HTML, CSS & JS. Here I prever IDEs by JetBrains and VSCode<br>
-I am currently learning JavaScript and React. <br>
+Compsci student based in Germany. <br>
+
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=2Theo22&langs_count=5&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=2Theo22&langs_count=5&theme=synthwave)
 
